@@ -1,4 +1,4 @@
 # hello-world
-Just another repository
+Just another
 
-hi.. test change
+hi.. test change text
